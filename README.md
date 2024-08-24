@@ -6,3 +6,15 @@
 - Recursive functions
 - Higher order functions & closures
 - Currying & type inference
+  
+## Part B :
+- Racket Basics
+- Dynamic vs Static typing
+- Laziness, streams & memoization
+- Macros
+  
+## Part C :
+- Ruby Basics
+- OOP & dynamic dispatch
+- Mulitple inheritance, interfaces
+- Subtyping
